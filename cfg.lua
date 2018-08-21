@@ -1,5 +1,5 @@
 local addon, ns = ...
-local E, M = unpack(yaCore)
+local E, M = unpack(vCore)
 local cfg = CreateFrame("Frame")
 --------------
 
@@ -23,9 +23,9 @@ cfg.autoConfirm = true -- Accepts the "bind on pickup"
 
 cfg.hideError = false -- Show "Can't use that here" etc.
 
-cfg.barTexture = M:Fetch("yaui", "statusbar")
-cfg.dropTexture = M:Fetch("yaui", "backdrop")
-cfg.dropEdgeTexture = M:Fetch("yaui", "backdropEdge")
+cfg.barTexture = M:Fetch("vui", "statusbar")
+cfg.dropTexture = M:Fetch("vui", "backdrop")
+cfg.dropEdgeTexture = M:Fetch("vui", "backdropEdge")
 
 cfg.font = M:Fetch("font", "Roboto")
 cfg.fontSize = M:Fetch("font", "size")

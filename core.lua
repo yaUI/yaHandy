@@ -1,6 +1,7 @@
 local addon, ns = ...
-local E, M = unpack(yaCore)
+local E, M = unpack(vCore)
 local cfg = ns.cfg
+--------------
 
 local SetCVar = SetCVar
 local GetMouseFocus = GetMouseFocus
