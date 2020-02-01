@@ -1,9 +1,0 @@
-## Interface: 73000
-## Author: Nonus - https://github.com/Nonus
-## Title: |cffFA2384v|rHandy
-## Version: 1.0
-## Dependencies: vCore, vMedia
-## X-Category: Misc
-
-cfg.lua
-core.lua

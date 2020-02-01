@@ -1,0 +1,9 @@
+## Interface: 80000
+## Author: Lofbergio - https://github.com/lofbergio
+## Title: |cffFA2384ya|rHandy
+## Version: 1.0
+## Dependencies: yaCore, yaMedia
+## X-Category: Misc
+
+cfg.lua
+core.lua
